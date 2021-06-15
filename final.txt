@@ -1,0 +1,2 @@
+This is the Git whole assignment.
+This line is inserted from new-branch.
